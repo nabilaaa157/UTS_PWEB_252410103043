@@ -1,4 +1,5 @@
 **PINJAM BUKU**
+
 Pinjam Buku adalah web simulasi peminjaman buku perpustakaan digital yang dikembangkan menggunakan Laravel 11. Web ini berfokus pada fungsionalitas pengelolaan peminjaman buku secara interaktif dan dinamis menggunakan penyimpanan session, di mana pengguna dapat melakukan login, menginput data buku yang ingin dipinjam, serta melihat daftar buku aktif dan riwayat peminjaman melalui antarmuka yang bersih.
 
 Halaman Login : 
